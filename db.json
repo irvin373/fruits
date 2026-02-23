@@ -100,17 +100,6 @@
       }
     },
     {
-      "nombre": "Lichi",
-      "emoji": "🔴",
-      "id": 67,
-      "nutricion": {
-        "calorias": 66,
-        "grasas": 0.44,
-        "azucar": 15,
-        "proteinas": 0.8
-      }
-    },
-    {
       "nombre": "Piña",
       "emoji": "🍍",
       "id": 10,
@@ -130,28 +119,6 @@
         "grasas": 0.3,
         "azucar": 16,
         "proteinas": 0.8
-      }
-    },
-    {
-      "nombre": "Grosella espinosa",
-      "emoji": "🟢",
-      "id": 69,
-      "nutricion": {
-        "calorias": 44,
-        "grasas": 0.6,
-        "azucar": 0,
-        "proteinas": 0.9
-      }
-    },
-    {
-      "nombre": "Fruta de la pasión",
-      "emoji": "🟣",
-      "id": 70,
-      "nutricion": {
-        "calorias": 97,
-        "grasas": 0.7,
-        "azucar": 11.2,
-        "proteinas": 2.2
       }
     },
     {
@@ -364,17 +331,6 @@
       }
     },
     {
-      "nombre": "Feijoa",
-      "emoji": "🟢",
-      "id": 76,
-      "nutricion": {
-        "calorias": 44,
-        "grasas": 0.4,
-        "azucar": 3,
-        "proteinas": 0.6
-      }
-    },
-    {
       "nombre": "Aguacate",
       "emoji": "🥑",
       "id": 84,
@@ -474,17 +430,6 @@
       }
     },
     {
-      "nombre": "Mangostán",
-      "emoji": "🟣",
-      "id": 99,
-      "nutricion": {
-        "calorias": 73,
-        "grasas": 0.58,
-        "azucar": 16.11,
-        "proteinas": 0.41
-      }
-    },
-    {
       "nombre": "Calabaza",
       "emoji": "🎃",
       "id": 100,
@@ -517,27 +462,5 @@
         "proteinas": 0.5
       }
     },
-    {
-      "nombre": "Anona",
-      "emoji": "🟢",
-      "id": 103,
-      "nutricion": {
-        "calorias": 92,
-        "grasas": 0.29,
-        "azucar": 3.4,
-        "proteinas": 1.5
-      }
-    },
-    {
-      "nombre": "Grosella de Ceilán",
-      "emoji": "🟣",
-      "id": 104,
-      "nutricion": {
-        "calorias": 47,
-        "grasas": 0.3,
-        "azucar": 8.1,
-        "proteinas": 1.2
-      }
-    }
   ]
 }
